@@ -1,10 +1,10 @@
 # Prashanth Badri
 ### Software Developer
 
-Enthusiastic and driven software developer with a keen interest in full-stack development. Skilled in building robust, scalable, and user-friendly web applications using modern technologies. Adept at problem-solving, writing clean code, and collaborating in dynamic team environments. Always eager to learn, adapt, and contribute to impactful projects that enhance user experiences and drive innovation.
+Enthusiastic and motivated aspiring software developer with a strong interest in full-stack development. Familiar with modern web technologies and passionate about building clean, user-friendly applications. Eager to learn, grow, and contribute to real-world projects while continuously improving my problem-solving and coding skills. Thrive in collaborative environments and excited to take on challenges that drive innovation and impact.
 
 🛠️ **Tech Stack**
-- Beginner: `React` `Express` `Nodejs` `Sql Server` `Azure Portal` `Azure Data Factory` `FastApi`
+- Beginner: `Python` `Java` `Reactjs` `Expressjs` `Nodejs` `SQL Server` `Azure Portal` `Azure Data Factory` `FastApi` 
 
 📊 **GitHub Stats**
 <p align="center">
