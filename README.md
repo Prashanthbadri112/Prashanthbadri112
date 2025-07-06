@@ -12,6 +12,8 @@ Enthusiastic and motivated aspiring software developer with a strong interest in
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanthbadri112&theme=dark" alt="GitHub Streak" />
 </p>
 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+  
 🤝 **Connect With Me**
 - [GitHub](https://github.com/Prashanthbadri112)
 - [LinkedIn](https://www.linkedin.com/in/prashanthbadri/)
